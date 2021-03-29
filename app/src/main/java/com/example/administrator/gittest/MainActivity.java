@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private final static String TAG = "MainActivity";
     private final static String TAG1 = "AppCompatActivity";
+    private final static String TAG2 = "Activity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

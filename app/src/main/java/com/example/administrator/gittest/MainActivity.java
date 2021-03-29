@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
     private final static String TAG = "MainActivity";
     private final static String TAG1 = "AppCompatActivity";
     private final static String TAG2 = "Activity";
+    private final static String TAG3 = "Context";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
